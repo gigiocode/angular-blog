@@ -19,3 +19,7 @@
   margin-top: 10px;
   color: grey;
 }
+
+.big-card__pic > img{
+  width: 100%;
+}
